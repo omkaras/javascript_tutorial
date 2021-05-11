@@ -1,0 +1,14 @@
+1. Write a program which accepts input and return Boolean.
+Program to check whether input number is present in an array
+
+2. Write a program to reverse a string
+Input: omkar
+Output: rakmo
+
+3. Write a program to sort an array
+
+4. Write a program to print lower case of input
+Input: Omkar
+Output: omkar
+
+5. Write a program to print Fibonacci series

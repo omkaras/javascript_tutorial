@@ -1,0 +1,19 @@
+1. WAP to find factorial of a no. (use recursion)
+
+2. WAP to display occurrence of all letters in a sentence (use Map)
+
+3. WAP to display below pattern
+*
+* *
+* * *
+* * 
+*
+
+4. WAP to remove input string from sentence
+Input: ell
+Sentence: hello, how are you?
+Output: ho, how are you?
+
+5. WAP to check if an object is an array or not?
+
+6. WAP to check if given string is Palindrome or not
