@@ -1,0 +1,39 @@
+1. WAP to compare 2 below arrays and print common elements in a single line.
+var arr1 = ['Tom', 'Harry', 'Tobby', 'Jon', 'Mary'];
+var arr2 = ['Tony', 'Elizabeth', 'Jack', 'Tobby', 'Mary', 'Ben'];
+
+2. WAP to read the file /3_Practice/file.txt and print frequency of below words
+a) her
+b) won
+c) Blanchett
+d) Actress
+Note: Strict casing rule. Hello != hello
+
+3. WAP to swap two numbers without using a third variable
+
+4. WAP to find second largest number in an array
+
+5. WAP to read array of object and read its gender and Print full name with appropriate prefix (Mr./Mrs./Ms)
+var persons = [
+{
+	firstName: 'Javad',
+	lastName: 'Shaikh',
+	gender: 'Female'
+},
+{
+	firstName: 'Payal',
+	lastName: 'Shah',
+	gender: 'Female'
+},
+{
+	firstName: 'Ravi',
+	lastName: 'Nayar',
+	gender: 'Male'
+},
+{
+	firstName: 'Keval',
+	gender: 'Male'
+}
+]
+
+Example: Mr. Suresh Rao
