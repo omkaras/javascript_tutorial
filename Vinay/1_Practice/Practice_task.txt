@@ -1,0 +1,9 @@
+1. Write a program which accepts input and return Boolean.
+Program to check whether input number is present in an array
+
+2. Open index.html in Chrome and examine the code written in Task_2.js
+Complete the method getCreditCardData() such that it output is as below
+- Input: Vinay
+- Output: Vinay's credit card information as of <current_date> is not present.
+- Input: Omkar
+- Output: Omkar's credit card balance as of <current_date> is 3000rs.
